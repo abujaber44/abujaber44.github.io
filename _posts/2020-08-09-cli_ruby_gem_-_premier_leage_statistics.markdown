@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default 
 title:      "CLI Ruby Gem - Premier Leage Statistics "
 date:       2020-08-09 04:20:33 +0000
 permalink:  cli_ruby_gem_-_premier_leage_statistics
